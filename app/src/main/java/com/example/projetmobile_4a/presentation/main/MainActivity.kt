@@ -3,12 +3,11 @@ package com.example.projetmobile_4a.presentation.main
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.lifecycle.Observer
 import com.example.projetmobile_4a.R
+import com.example.projetmobile_4a.presentation.second.SecondActivity
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import kotlinx.android.synthetic.main.activity_main.*
 import org.koin.android.ext.android.inject
-import java.io.Serializable
 
 class MainActivity : AppCompatActivity() {
 

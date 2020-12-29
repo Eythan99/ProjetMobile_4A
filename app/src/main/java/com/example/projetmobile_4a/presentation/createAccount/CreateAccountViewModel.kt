@@ -1,4 +1,4 @@
-package com.example.projetmobile_4a.presentation.main
+package com.example.projetmobile_4a.presentation.createAccount
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

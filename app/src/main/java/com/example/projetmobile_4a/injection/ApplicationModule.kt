@@ -7,12 +7,11 @@ import com.example.projetmobile_4a.data.local.DatabaseDao
 import com.example.projetmobile_4a.data.repository.UserRepository
 import com.example.projetmobile_4a.domain.usecase.CreateUserUseCase
 import com.example.projetmobile_4a.domain.usecase.GetUserUseCase
-import com.example.projetmobile_4a.presentation.main.CreateAccountViewModel
+import com.example.projetmobile_4a.presentation.createAccount.CreateAccountViewModel
 import com.example.projetmobile_4a.presentation.main.MainViewModel
-import com.example.projetmobile_4a.presentation.main.SecondViewModel
+import com.example.projetmobile_4a.presentation.second.SecondViewModel
 import org.koin.android.ext.koin.androidContext
 import org.koin.dsl.module
-import java.security.AccessControlContext
 
 val presentationModule = module {
     factory { MainViewModel(get()) }
