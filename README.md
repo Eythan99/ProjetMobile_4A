@@ -36,22 +36,22 @@ https://github.com/Eythan99/ProjetMobile_4A
 
 - Sur le premier écran, l'utilisateur se retrouve devant un écran de login où il peux rentrer son identifiant ainsi que sont mot de passe
 
-<img src="Image/Accueil.png" width= 100>
+<img src="Image/Accueil.png" width= 200>
 
 - Si la paire identifiant/mot de passe est incorrect ou n'existe pas, un message d'erreur apparait
 
-<img src="Image/Erreur.png" width= 100>
+<img src="Image/Erreur.png" width= 200>
 
 ### Ecran de création de compte
 
 - L'utilisateur peut créer un compte en appuyant sur create account
 - Il devra ensuite compléter tous les champs puis cliquer sur le bouton de création du compte
 
-<img src="Image/Compte.png" width= 100>
+<img src="Image/Compte.png" width= 200>
 
 ### Ecran d'affichage d'un liste
 
 - C'est ici que l'appel api est réalisé. Il peut mettre un peu de temps à arrivé car plusieur appels sont fait pour récupérer des données plus diverse
 - Ainsi il y a une image pour illustrer le temps ainsi que la température et d'autres informations importante
 
-<img src="Image/Liste.png" width= 100>
+<img src="Image/Liste.png" width= 200>
