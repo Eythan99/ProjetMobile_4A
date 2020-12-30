@@ -1,8 +1,8 @@
-# Application rojet mobile 4A
+# Application projet mobile 4A
 
 ## Présentation
 
-C'est une application développé en kotlin pour approfondir android studio et découvrir kotlin.
+C'est une application développée en kotlin pour approfondir android studio et découvrir kotlin.
 
 Cette application affiche la météo des villes qui se situe autour de notre Paris. Pour cela elle utilise l'API metawheather.com.
 
